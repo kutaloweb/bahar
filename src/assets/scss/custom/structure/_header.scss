@@ -1,0 +1,28 @@
+.breadcrumb-item {
+  > a {
+    color: $gray-700;
+  }
+
+  + .breadcrumb-item {
+    &::before {
+      font-family: "Font Awesome 5 Free";
+      content: "\f105";
+      font-weight: 900;
+    }
+  }
+}
+
+.page-title-box {
+  padding-bottom: $grid-gutter-width;
+
+  .breadcrumb {
+    background-color: transparent;
+    padding: 0;
+  }
+
+  h4 {
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+}

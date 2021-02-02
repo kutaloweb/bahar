@@ -1,0 +1,35 @@
+{
+  "name": "@kutaloweb/bahar",
+  "version": "1.0.0",
+  "description": "Free React Admin Template | Bahar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kutaloweb/bahar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kutaloweb/bahar/issues"
+  },
+  "author": "Alexey Kutalo <kutalo84@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+
+
+
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts --max_old_space_size=8000 build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

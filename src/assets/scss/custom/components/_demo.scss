@@ -1,0 +1,20 @@
+.icon-demo-content {
+  color: $gray-600;
+
+  i {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 36px;
+    font-size: 20px;
+    color: $gray-700;
+    text-align: center;
+    margin-right: 5px;
+    margin-bottom: 6px;
+    vertical-align: middle;
+  }
+
+  .col-lg-4 {
+    margin-top: 24px;
+  }
+}
