@@ -64,8 +64,8 @@ class Dashboard extends Component {
                                     <CardBody>
                                         <Row className="align-items-center">
                                             <Col>
-                                                <h3>$162564</h3>
-                                                <h6 className="text-muted m-b-0">Total Income</h6>
+                                                <h3>$1625</h3>
+                                                <h6 className="text-muted m-b-0">Income</h6>
                                             </Col>
                                             <Col>
                                                 <ReactApexChart {...chart3} />
@@ -90,10 +90,6 @@ class Dashboard extends Component {
                                             <Col>
                                                 <h4 className="m-0 text-white">10</h4>
                                                 <span>Open</span>
-                                            </Col>
-                                            <Col>
-                                                <h4 className="m-0 text-white">10</h4>
-                                                <span>Running</span>
                                             </Col>
                                             <Col>
                                                 <h4 className="m-0 text-white">3897</h4>

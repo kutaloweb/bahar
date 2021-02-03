@@ -11,7 +11,7 @@ class Breadcrumbs extends Component {
                     <Col xs={12}>
                         <div className="page-title-box d-flex align-items-center justify-content-between">
                             <h4 className="mb-0">{this.props.title}</h4>
-                            <div className="page-title-right">
+                            <div className="page-title-right hidden-sm">
                                 <Breadcrumb listClassName="m-0">
                                     {
                                         this.props.breadcrumbItems.map((item, key) =>

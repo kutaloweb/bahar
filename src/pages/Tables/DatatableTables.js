@@ -30,6 +30,7 @@ class DatatableTables extends Component {
                                     responsive
                                     hover
                                     data={data}
+                                    paginationLabel={['<', '>']}
                                     noBottomColumns={true}
                                 />
                             </CardBody>

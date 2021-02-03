@@ -8,7 +8,7 @@ const Footer = () => {
                 <Container fluid>
                     <Row>
                         <Col sm={6}>
-                            © {new Date().getFullYear()} Bahar Dashboard. All rights reserved.
+                            © {new Date().getFullYear()} Bahar Dashboard. <span className="hidden-sm">All rights reserved.</span>
                         </Col>
                         <Col sm={6}>
                             <div className="text-sm-right d-none d-sm-block">

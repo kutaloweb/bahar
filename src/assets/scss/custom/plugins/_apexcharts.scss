@@ -53,3 +53,8 @@
   color: $gray-600;
   background-color: #fff;
 }
+@media (max-width: 600px) {
+  .apexcharts-title-text {
+    display: none !important;
+  }
+}
