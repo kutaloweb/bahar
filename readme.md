@@ -4,7 +4,11 @@
 <a href="https://www.npmjs.com/package/@kutaloweb/bahar"><img src="https://img.shields.io/npm/v/@kutaloweb/bahar.svg" alt="Latest Stable Version"></a>
 </p>
 
-Free React Admin Template. Minimalistic, developer-friendly & highly scalable admin dashboard template built with Bootstrap and pure React (100% jQuery free).
+Lightweight, responsive, developer-friendly & highly scalable admin dashboard template built with Bootstrap and pure React (100% jQuery free).
+
+**Preview on [Bahar.Rocks](https://bahar.rocks)**
+
+![Screen](https://user-images.githubusercontent.com/17153568/106698517-d1d71b80-6595-11eb-98c2-86be51850ee9.png "Dashboard")
 
 ## Getting Started
 
