@@ -1,8 +1,7 @@
 # Bahar
 
 <p align="center">
-<a href="https://packagist.org/packages/bahar/bahar"><img src="https://poser.pugx.org/bahar/bahar/v/stable" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/bahar/bahar"><img src="https://poser.pugx.org/bahar/bahar/license.svg" alt="License"></a>
+<a href="https://www.npmjs.com/package/@kutaloweb/bahar"><img src="https://img.shields.io/npm/v/@kutaloweb/bahar.svg" alt="Latest Stable Version"></a>
 </p>
 
 Free React Admin Template. Minimalistic, developer-friendly & highly scalable admin dashboard template built with Bootstrap and pure React (100% jQuery free).
