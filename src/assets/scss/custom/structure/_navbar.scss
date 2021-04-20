@@ -26,11 +26,12 @@
 
 .navbar-brand-box {
   padding: 0 1.5rem;
+  height: $brand-box-height;
   width: $navbar-brand-box-width;
 }
 
 .logo {
-  line-height: 70px;
+  line-height: $brand-box-height;
 
   .logo-sm {
     display: none;

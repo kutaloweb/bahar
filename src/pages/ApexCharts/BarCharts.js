@@ -3,7 +3,6 @@ import BarChartsBasic from "./BarChartsBasic";
 import BarChartsGrouped from "./BarChartsGrouped";
 import BarChartsStacked from "./BarChartsStacked";
 import BarChartsNegative from "./BarChartsNegative";
-import BarChartsLabels from "./BarChartsLabels";
 import {Container, Card, CardBody} from "reactstrap";
 import Breadcrumbs from '../../components/Breadcrumb';
 
@@ -51,13 +50,6 @@ class AreaCharts extends Component {
                             <CardBody>
                                 <h4 className="card-title mb-4">With Negative Values</h4>
                                 <BarChartsNegative/>
-                            </CardBody>
-                        </Card>
-
-                        <Card>
-                            <CardBody>
-                                <h4 className="card-title mb-4">With Custom DataLabels</h4>
-                                <BarChartsLabels/>
                             </CardBody>
                         </Card>
 
